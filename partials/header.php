@@ -4,7 +4,7 @@
             <p class="font-mono font-bold text-purple-500 hover:cursor-pointer hover:font-extrabold hover:text-blue-600"><i
                     class="fa fa-home"></i> Home</p>
         </a>
-        <a href="https://" target="_blank">
+        <a href="https://github.com/thusarasenanayake/letters" target="_blank">
         <p class="font-mono font-bold text-cyan-500 hover:cursor-pointer hover:font-extrabold hover:text-blue-600"><i
                 class="fa fa-github"></i> Source Code</p></a>
     </nav>
