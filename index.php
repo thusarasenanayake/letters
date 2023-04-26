@@ -12,7 +12,7 @@
 
 <body>
 
-     <?php include_once(__DIR__ . '/partials/header.php'); ?>
+  <?php include_once(__DIR__ . '/partials/header.php'); ?>
 
 
   <main class="letter bg-white max-w-xl">
@@ -59,9 +59,7 @@
 
   </main>
 
- <?php include_once(__DIR__ .'/partials/footer.php'); ?>
-
-
+  <?php include_once(__DIR__ . '/partials/footer.php'); ?>
 
   <script src="./assets/scripts/FileSaver.min.js.js"></script>
   <script src="./assets/scripts/dom-to-image.min.js.js"></script>

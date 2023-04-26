@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "concurrently \"php -S localhost:5006\"  \"npx tailwindcss --input assets/styles/input.css --output assets/styles/output.css --watch\" ",
+    "dev": "concurrently \"php -S localhost:5004\"  \"npx tailwindcss --input assets/styles/input.css --output assets/styles/output.css --watch\" ",
     "build": "npx tailwindcss --input assets/styles/input.css --output assets/styles/output.css --minify"
   },
   "devDependencies": {
